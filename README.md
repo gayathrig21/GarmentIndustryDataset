@@ -6,6 +6,8 @@ The Garment Industry is one of the key examples of the industrial globalization 
 Satisfying the huge global demand for garment products is mostly dependent on the production and delivery performance of the employees in the garment manufacturing companies. 
 So, it is highly desirable among the decision makers in the garments industry to track, analyze and predict the productivity performance of the working teams in their factories.
 
+![alt text](https://github.com/gayathrig21/GarmentIndustryDataset/blob/main/GarmentIndustry.png?raw=true)
+
 
 # Problem Statement
 
